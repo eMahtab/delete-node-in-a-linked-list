@@ -42,7 +42,7 @@ class Solution {
 }
 ```
 ### Important :
-We are given that, we won't be deleting tail node. So there will be atleast 2 nodes in the linked list, which means `node.next` will not be null. 
+We are given that initially there will be at least 2 nodes in the linked list, and we won't be deleting tail node. Which means `node.next` will not be null. 
 
 # References :
 https://leetcode.com/articles/delete-node-linked-list
